@@ -1,0 +1,13 @@
+name = "ExtraLib"
+filename = "ExtraLib-3.0.4-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eec7ae661b1b81c4d0ddf9f56756a1481a88b373"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8122053
+project-id = 1083780

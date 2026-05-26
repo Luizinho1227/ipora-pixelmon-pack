@@ -1,0 +1,13 @@
+name = "PixelGO - Balls (for Pixelmon)"
+filename = "pixelballs-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c0934ee691bedf8f3aa0d031f6148ad4c84e6fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6717627
+project-id = 919147

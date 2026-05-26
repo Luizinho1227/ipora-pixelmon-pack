@@ -1,0 +1,13 @@
+name = "PixelGO - Items (for Pixelmon)"
+filename = "pixelgoitems-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88b212b99962e34607bc9a20525e644175fdd388"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7690477
+project-id = 1297571

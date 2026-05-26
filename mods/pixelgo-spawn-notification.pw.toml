@@ -1,0 +1,13 @@
+name = "PixelGO - Spawn Notification (for Pixelmon)"
+filename = "pixelnotifmod-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a708348995660a24e1dce3f6b24fa4067af209bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8139176
+project-id = 1298755

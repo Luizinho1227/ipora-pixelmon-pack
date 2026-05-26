@@ -1,0 +1,13 @@
+name = "Pixelmon More Structures"
+filename = "pixelmon_more_structuresv-1.0.5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "609153a4f32f299980350c0701edff35f9c5166e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6816776
+project-id = 1191701

@@ -1,0 +1,13 @@
+name = "Pixelmon Utility PokeRadar"
+filename = "pokeradar-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "20c3f371ad808159d3e159429d26d72bc6166db4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7740053
+project-id = 1415113

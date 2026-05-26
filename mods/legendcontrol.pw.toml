@@ -1,0 +1,13 @@
+name = "LegendControl [Pixelmon]"
+filename = "LegendControl-3.4.1-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0984eba5fe5bf3b977fb1d20253f06b0f3f78472"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8055083
+project-id = 965501

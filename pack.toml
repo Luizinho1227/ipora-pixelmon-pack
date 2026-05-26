@@ -1,0 +1,13 @@
+name = "IPORA PIXELMON"
+author = "Admin"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f43b250d3d320c3288ba586c3048f0bc77ac1dab0e024dd8e520070ec4635b29"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"

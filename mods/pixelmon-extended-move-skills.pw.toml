@@ -1,0 +1,13 @@
+name = "Pixelmon Extended Move Skills"
+filename = "extendedpixelmonmoveskills-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85780cd7eb95e7fc0de0cfd67454641347fb080c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7515075
+project-id = 1383743

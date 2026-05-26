@@ -1,0 +1,13 @@
+name = "PixelGO - Specs (for Pixelmon)"
+filename = "pixelspecs-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbe30d8a4bf82af0be3a3479d097371b26ff0f25"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6709354
+project-id = 1296868

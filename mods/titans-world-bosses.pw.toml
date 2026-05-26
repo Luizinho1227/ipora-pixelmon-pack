@@ -1,0 +1,13 @@
+name = "Titans - World Bosses"
+filename = "Titans-1.2.1-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76462c06d2f861d11282176434bbe3c25b1f4428"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8007279
+project-id = 1356785

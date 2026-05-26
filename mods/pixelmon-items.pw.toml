@@ -1,0 +1,13 @@
+name = "Pixelmon Items"
+filename = "pixelitems-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7110e5fdf69788b09836b4fa3f4291e134139b06"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7591735
+project-id = 1327131
