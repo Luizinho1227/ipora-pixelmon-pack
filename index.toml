@@ -5,6 +5,11 @@ file = "manifest.json"
 hash = "ace3a41df03f3b280c1738e5648010aaa211fec1730a0b92342e5f0875090544"
 
 [[files]]
+file = "mods/advancedae.pw.toml"
+hash = "2c39c5e517528d1b67c41e9113134b93f7354efcdbf7ff6a38da7304e65ea444"
+metafile = true
+
+[[files]]
 file = "mods/ae2-crafting-tree.pw.toml"
 hash = "50387e948be96b51d9d18d5be33c997de15d7f06f22ca8b61f694b418047d35f"
 metafile = true
@@ -471,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "overrides/config/packwiz-installer-bootstrap.properties"
-hash = "9c442e45b73ca52251c7f07f44137ac054124ba47f887f65234f4c002b349093"
+hash = "e38e75bf97573215bc2398509b402fb500b97907195833994eb2c0f155333bef"
 
 [[files]]
 file = "overrides/mods/packwiz-installer-bootstrap.jar"
