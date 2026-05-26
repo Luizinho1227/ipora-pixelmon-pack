@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/advancedae.pw.toml"
-hash = "2c39c5e517528d1b67c41e9113134b93f7354efcdbf7ff6a38da7304e65ea444"
+hash = "f3c5fc12dbbbb0b8a2a0b30d15713ddc0ecffc9343c7adc88be655a98ecd8670"
 metafile = true
 
 [[files]]
