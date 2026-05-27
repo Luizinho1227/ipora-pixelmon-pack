@@ -466,6 +466,11 @@ hash = "4b78f845d8eb6f5b47d4cd9ad534dc5e1a11e45fafbcd4106b25479bd2e080b1"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
+metafile = true
+
+[[files]]
 file = "overrides/config/packwiz-installer-bootstrap.properties"
 hash = "e38e75bf97573215bc2398509b402fb500b97907195833994eb2c0f155333bef"
 
