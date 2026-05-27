@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/advancedae.pw.toml"
-hash = "f3c5fc12dbbbb0b8a2a0b30d15713ddc0ecffc9343c7adc88be655a98ecd8670"
+hash = "a2aafa3ac24eef1aad644a9633f9f856271ed97c8da6a6855627f9eaea6e44f4"
 metafile = true
 
 [[files]]
@@ -113,11 +113,6 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "04cba5d12b1262ba3a1d89caae20c5e44a9010f050c549ff91f2661fb796dc7b"
-metafile = true
-
-[[files]]
-file = "mods/expanded-ae.pw.toml"
-hash = "11eb9b7e512837a8c14136c04bd1597c0adc15856b25577a26993c0824029b7a"
 metafile = true
 
 [[files]]
